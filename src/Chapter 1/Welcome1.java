@@ -4,7 +4,3 @@ public class Welcome1 {
         System.out.println("Welcome to Java Programming!");
     } 
 }
-
-
-
-
